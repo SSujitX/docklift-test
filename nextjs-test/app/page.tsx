@@ -13,9 +13,7 @@ export default function Home() {
       }}
     >
       <h1 style={{ fontSize: "3rem", marginBottom: "1rem" }}>🐳 Docklift</h1>
-      <h2 style={{ fontSize: "1.5rem", opacity: 0.9 }}>
-        Next.js Test App Coolll
-      </h2>
+      <h2 style={{ fontSize: "1.5rem", opacity: 0.9 }}>Next.js Test App</h2>
       <p style={{ marginTop: "2rem", opacity: 0.7 }}>Deployed successfully!</p>
     </div>
   );
