@@ -5,7 +5,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return jsonify({
-        "message": "Hello from Docklift Python Test, Really!!",
+        "message": "Hello from Docklift Python Test, Reallyss!!",
         "status": "running",
         "app": "flask"
     })
